@@ -1,0 +1,4 @@
+3lc-env/
+__pycache__/
+*.pth
+*.csv
